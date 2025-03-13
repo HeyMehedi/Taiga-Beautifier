@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "Taiga Beautifier",
-	"version": "1.1",
+	"version": "0.1",
 	"description": "Enhances Taiga's UI by dynamically displaying issue counts.",
 	"permissions": ["activeTab", "scripting"],
 	"content_scripts": [
@@ -12,12 +12,10 @@
 		"run_at": "document_end"
 	  }
 	],
-	"action": {
-	  "default_popup": "popup.html",
-	  "default_icon": {
-		"16": "icon.png",
-		"48": "icon.png",
+	"icons": {
 		"128": "icon.png"
-	  }
+	},
+	"action": {
+		"default_icon": "icon.png"
 	}
   }  
