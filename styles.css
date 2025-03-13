@@ -1,0 +1,108 @@
+.issue-count {
+    background-color: #93c45d; /* Nice orange color */
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 10px; /* Adds spacing */
+    display: inline-block;
+    font-size: 14px;
+}
+
+a.mention {
+    padding: 5px;
+    background: #888 !important;
+    border-radius: 5px;
+    color: #fff !important;
+}
+
+.tag {
+    max-width: 100% !important;
+    border-radius: 8px !important;
+}
+
+.filters-applied .single-applied-filter {
+    border-radius: 8px;
+    padding-left: 5px;
+}
+
+.ticket-header .detail-status-inner>span {
+    border-radius: 5px !important;
+}
+
+.duty-custom-fields .custom-fields-header {
+    display: none !important;
+}
+
+.issues-table .modified-field {
+    text-align: center;
+}
+.custom-fields-body {
+    border-top: 3px solid #ebebeb;
+    padding-top: 25px;
+}
+
+
+tg-svg.icon-close {
+    width: 15px !important;;
+    height: auto !important;;
+}
+
+.issues-table .row:not(.title):hover,
+.single-filter.single-filter-type-custom.active, 
+.single-filter.single-filter-type-custom:hover {
+    background: bisque !important;
+    border-radius: 5px !important;
+}
+
+.subheader .tags-container {
+    column-gap: 5px !important;
+}
+
+.detail-project {
+    display: none !important;
+}
+
+[data-fieldname="type"],
+[data-fieldname="severity"],
+[data-fieldname="priority"],
+[tg-listitem-type="issue"],
+[tg-listitem-severity="issue"],
+[tg-listitem-priority="issue"],
+.ticket-data-container{
+    display:none !important;
+}
+
+.comment .comment-avatar,
+.activity .activity-avatar,
+.ticket-user-list .user-list-avatar img {
+    border-radius: 50%;
+}
+
+.issues-table .row {
+    border-left: 5px solid #f4f4f4;
+}
+
+.past-soon {
+    border-left: 5px solid #E44057 !important;
+}
+
+.due-soon {
+    border-left: 5px solid #CFD350 !important;
+}
+
+tg-comment.comment{
+    padding-left: 15px;
+    border-radius: 8px;
+}
+tg-comment.comment:nth-child(even) {
+    background: #f4f4f4 !important;
+ }
+ 
+ .comment .comment-wrapper {
+    border: 0px !important;
+ }
+
+ .ticket-header .detail-status-inner>span {
+    text-transform: inherit !important;
+}
