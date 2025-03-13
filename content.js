@@ -6,8 +6,6 @@
             const rows = table.querySelectorAll('.row.table-main');
             const count = rows.length;
 
-            console.log(`Updating issue count: ${count}`); // Debugging log
-
             // Find the `.issue-table-options-start` container
             const optionsStart = document.querySelector('.issue-table-options-start');
 
