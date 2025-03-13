@@ -1,7 +1,3 @@
-Here's a well-structured and professional **README** file for your **Taiga Beautifier** GitHub repository:  
-
----
-
 # **Taiga Beautifier**  
 
 🚀 A lightweight Chrome extension that enhances the **Taiga.io** UI by dynamically displaying issue counts and improving overall visual aesthetics.
