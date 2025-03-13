@@ -65,7 +65,3 @@ Want to improve this project? 🚀
 ---
 
 💡 **Suggestions? Issues?** Feel free to open an [issue](https://github.com/heymehedi/taiga-beautifier/issues) or contribute!  
-
----
-
-Let me know if you want any customizations! 🚀
