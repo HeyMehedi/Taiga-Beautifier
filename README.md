@@ -6,7 +6,8 @@ Here's a well-structured and professional **README** file for your **Taiga Beaut
 
 🚀 A lightweight Chrome extension that enhances the **Taiga.io** UI by dynamically displaying issue counts and improving overall visual aesthetics.
 
-![Taiga Beautifier Screenshot](screenshot.png) <!-- Add a screenshot of your extension -->
+![Taiga Beautifier Screenshot](https://github.com/user-attachments/assets/e4b1c5bb-c24b-4375-b820-e92f40866b1b)
+
 
 ## **Features**  
 
@@ -67,7 +68,7 @@ Want to improve this project? 🚀
 
 ---
 
-💡 **Suggestions? Issues?** Feel free to open an [issue](https://github.com/yourusername/taiga-beautifier/issues) or contribute!  
+💡 **Suggestions? Issues?** Feel free to open an [issue](https://github.com/heymehedi/taiga-beautifier/issues) or contribute!  
 
 ---
 
