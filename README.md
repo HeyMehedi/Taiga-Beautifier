@@ -22,7 +22,7 @@ https://chromewebstore.google.com/detail/taiga-beautifier/kpcmeoofjllghjeioeicjm
    - Click on the green "Code" button above and select "Download ZIP."  
    - Or clone the repository:  
      ```sh
-     git clone https://github.com/yourusername/taiga-beautifier.git
+     git clone https://github.com/heymehedi/taiga-beautifier.git
      ```
 
 2. **Extract the ZIP file** (if downloaded manually).  
