@@ -13,8 +13,8 @@
 
 ## **Installation**  
 
-### **From Chrome Web Store (Coming Soon)**  
-(Once published, add the link here)
+### **From Chrome Web Store**  
+https://chromewebstore.google.com/detail/taiga-beautifier/kpcmeoofjllghjeioeicjmfkcennnjhk?hl=en 
 
 ### **Manual Installation**  
 
